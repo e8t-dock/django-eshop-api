@@ -7,3 +7,5 @@ support:
     list of category and product. 
 
     search product.
+
+    django custom command to seed database.
